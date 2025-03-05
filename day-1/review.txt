@@ -1,0 +1,31 @@
+Review 1:
+please use a Meaning full variable name, 
+consider a name like elapsedTimeInDays
+
+Review 2:
+please consider giving proper name to "db" object
+avoid using generic name like "dataFromDb"
+consider changing the name of service to something like "getListOfEmployees()"
+
+
+Review 3:
+please mention what the counter is counting 
+avoid using i or str or d in names
+
+Review 4:
+please remove unnecessary inputs to function. "pAmount" is not required
+remove "p" from names
+
+Review 5:
+Usage same naming convention for all constants
+use proper case for "songs" to be changes
+
+Review 6:
+Inconsistent property naming convention
+sWorkDate -> workDate.
+
+Review 7:
+Use consistent casing.
+employeephone -> employeePhone
+workingdays -> days,
+workinghours -> hours. 

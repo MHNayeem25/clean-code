@@ -1,0 +1,29 @@
+Review 1:
+Dont use nested loops,
+use a list of valid days and check if day exists in list
+
+Review 3:
+correct variable name 
+change logic as this logic doesnt work for numbers less than 50
+do we actually need condition (n<50) ?, please remove this checck
+if there is a limittaion, please add method name as "fibonacciTill50"
+
+Review 4:
+provide good variable name for "l"
+pick names of states from a list
+better use foreach loop
+
+
+Review 5:
+remove magic numbers
+
+
+review 6:
+remove "car" from variable names 
+
+
+review 9:
+method name needs to be pascal case
+remove assigning the value of null to input parameter
+"breweryName" can be changed to "brewery"
+"Hipster Brew Co." is a constant so add in constants
