@@ -1,0 +1,40 @@
+1: 
+Function performing 2 tasks. Improve name
+"Valid password" is magic word
+
+2:
+    temp is redundant. directly use name.split(" ")[0]
+
+3:
+    Ambiguous fn name
+
+4: 
+    Inconsistent logc, hardcoded cases.
+
+5:
+    Explicit casting
+    first checking type and then DriveTo/PeddleTo. 
+    Use a commong method. Polymorph
+    No return statement when return type is path.
+
+6:
+    seperate seperate fun to create file with name and to create temp.
+
+7:
+    avoid singleton. use injection.
+    difficult to mock.
+    or use a wrapper fun
+
+8:
+    Many parameters
+
+9:
+    send mail should be a different service /class.
+    directly using db
+
+10: 
+    message.Handle() is misleading
+
+11:
+    wrong abstration. for validation
+    
